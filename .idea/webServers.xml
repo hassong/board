@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0660d93-72a1-40a4-9176-8619c63c2405" name="hayesong">
+        <fileTransfer rootFolder="/home/hayesong/www" accessType="SFTP" host="49.238.167.94" port="22" sshConfigId="52972ae1-cc5f-420e-9105-e03f096b57cf" sshConfig="hayesong@49.238.167.94:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
